@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/bin/Debug/net7.0/PriorityQueueCollection
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/bin/Debug/net7.0/PriorityQueueCollection.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/bin/Debug/net7.0/PriorityQueueCollection.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/bin/Debug/net7.0/PriorityQueueCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/bin/Debug/net7.0/PriorityQueueCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/obj/Debug/net7.0/PriorityQueueCollection.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/obj/Debug/net7.0/PriorityQueueCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/obj/Debug/net7.0/PriorityQueueCollection.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/obj/Debug/net7.0/PriorityQueueCollection.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/obj/Debug/net7.0/PriorityQueueCollection.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/obj/Debug/net7.0/PriorityQueueCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/obj/Debug/net7.0/refint/PriorityQueueCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/obj/Debug/net7.0/PriorityQueueCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/obj/Debug/net7.0/PriorityQueueCollection.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/PriorityQueueCollection/obj/Debug/net7.0/ref/PriorityQueueCollection.dll
